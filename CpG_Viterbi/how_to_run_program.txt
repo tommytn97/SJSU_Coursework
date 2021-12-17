@@ -1,0 +1,5 @@
+Run the HidenMarkov.py file. It will prompt you to input the file. Make sure the file is in the directory of the script.
+Examples of what to type in when prompted:
+dna_seq1.txt
+dna_seq2.txt
+dna_seq3.txt

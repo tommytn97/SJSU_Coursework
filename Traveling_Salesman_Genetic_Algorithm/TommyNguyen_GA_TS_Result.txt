@@ -1,0 +1,8 @@
+3 Singapore
+4 Beijing
+6 Tokyo
+7 Victoria
+5 Phoenix
+1 Venice
+0 London
+2 Dunedin
