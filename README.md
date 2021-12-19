@@ -1,6 +1,6 @@
 # SJSU Course Projects
 
-Projects done during my time in San Jose State University's Bioinformatics Program
+Projects done during my time in San Jose State University's Master of Science Bioinformatics Program
 
 **<u>CS-223 - Genetic Algorithm and Travelling Salesman Problem</u>**
 
@@ -12,12 +12,12 @@ Project involved customizing a genetic algorithm to solve the travelling salesma
 
 *Code found in Traveling_Salesman_Genetic_Algorithm*
 
-Instructor provided hidden Markov model parameters, with integers as the format. The goal is to convert the integers using log~2~ values and implement the  Viterbi algorithm to predict CpG-islands. 
+Instructor provided hidden Markov model parameters with integers as the format. The goal is to convert the integers using log~2~ values and implement the  Viterbi algorithm to predict CpG-islands. 
 
 **<u>CS-185 - Machine Learning to Predict Survival Rate of Patients with Heart Failure</u>**
 
 *Code found in ML_Heart_Failure*
 
-This project was a introduction to machine learning. Pandas was used to tabulate the data and Seaborn for visuals. Scikit-learn was used to predict survival rate of patients. Reference is listed below. 
+This project was a introduction to machine learning. Pandas was used to tabulate the data and Seaborn for visuals. Scikit-learn was used to predict survival rate of patients. Data taken from reference listed below.
 
 Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. *BMC Med Inform Decis Mak* **20,** 16 (2020). https://doi.org/10.1186/s12911-020-1023-5
