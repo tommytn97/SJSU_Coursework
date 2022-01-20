@@ -2,9 +2,9 @@
 
 Coursework done during my time in San Jose State University's Master of Science Bioinformatics Program
 
-**<u>CS-285 - Prediction of subcellular locations with DNA sequences (Final)</u>**
+**<u>CS-286 - Prediction of subcellular locations with DNA sequences (Final)</u>**
 
-[*Code found in CS285_Final*]()
+[*Code found in CS285_Final*](https://github.com/tommytn97/SJSU_Coursework/blob/main/CS285_Final/TommyNguyen_CS286_final_submitted.ipynb)
 
 Final involved either being individual or groupwork (this final was done individually). Final was scored based on attempt to predict subcellular locations with DNA sequences. The code used SVM linear classifier and decision tree classifier to predict subcellular locations and SVM linear classifier produced better accuracy, precision, and recall. 
 
