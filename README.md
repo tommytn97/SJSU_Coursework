@@ -18,7 +18,7 @@ Project involved customizing a genetic algorithm to solve the travelling salesma
 
 [*Code found in Traveling_Salesman_Genetic_Algorithm*](https://github.com/tommytn97/SJSU_Projects/blob/main/Traveling_Salesman_Genetic_Algorithm/TommyNguyen_GS_TS.py)
 
-Instructor provided hidden Markov model parameters with integers as the format. The goal is to convert the integers using log_2 values and implement the  Viterbi algorithm to predict CpG-islands. 
+Instructor provided hidden Markov model parameters with integers as the format. The goal is to convert the integers using log~2~ values and implement the Viterbi algorithm to predict CpG-islands. 
 
 **<u>CS-185 - Machine Learning to Predict Survival Rate of Patients with Heart Failure</u>**
 
